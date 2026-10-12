@@ -1,0 +1,5 @@
+{"id": "math-1", "prompt": "What is 12 * 12?", "reference": "144"}
+{"id": "math-2", "prompt": "What is 100 / 4?", "reference": "25"}
+{"id": "geo-1", "prompt": "What is the capital of Japan?", "reference": "Tokyo"}
+{"id": "sci-1", "prompt": "What gas do plants absorb from the atmosphere?", "reference": "Carbon dioxide"}
+{"id": "hist-1", "prompt": "In which year did India gain independence?", "reference": "1947"}
